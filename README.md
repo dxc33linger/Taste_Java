@@ -14,6 +14,8 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 - [x] Condition: while
 - [x] Array
 
+- [x] Hash Table
+    * Run [TestHashTable.java](https://github.com/dxc33linger/Taste_Java/blob/master/Hash/src/Hash/TestHashTable.java) and enjoy!
 
 
 
