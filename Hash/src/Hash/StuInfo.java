@@ -6,6 +6,10 @@ public class StuInfo {
 		private int age;
 		private int count;
 		
+		
+		/* These lines can be added automatically by Eclipse.
+		 * Right click inside the Class and click on Source -> Generate Getters and Setters
+		 */
 		public int getAge() {
 			return age;
 		}
@@ -22,10 +26,11 @@ public class StuInfo {
 			this.count = count;
 		}
 		
-		public int hashCode() {
-			return age;
-			
-		}
+		
+		
+		/* These lines can be added automatically by Eclipse.
+		 * Right click inside the Class and click on Source -> Generate Constructors using Fields
+		 */
 		public StuInfo(int age, int count) {
 			super();
 			this.age = age;
@@ -37,6 +42,14 @@ public class StuInfo {
 			this.age = age;
 		}
 
+		
+		public int hashCode() {
+			return age;
+			
+		}
+		/* These lines can be added automatically by Eclipse.
+		 * Right click inside the Class and click on Source -> Generate toStrings()
+		 */
 		@Override
 		public String toString() {
 			return "StuInfo [age=" + age + ", count=" + count + "]";

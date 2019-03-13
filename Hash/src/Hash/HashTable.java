@@ -17,6 +17,9 @@ public class HashTable {
 		return data[stuInfo.hashCode()];
 	}
 
+	/* These lines can be added automatically by Eclipse.
+	 * Right click inside the Class and click on Source -> Generate toStrings()
+	 */
 	@Override
 	public String toString() {
 		return "HashTable [data=" + Arrays.toString(data) + "]";

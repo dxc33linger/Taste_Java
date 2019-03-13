@@ -18,15 +18,17 @@ public class TestHashTable {
 		ht.put(s4);
 		ht.put(s5);
 
-		System.out.println(ht);
 
 		StuInfo target = new StuInfo(20);
 		StuInfo info = ht.get(target);
-		System.out.println(info);
+		System.out.println(info + "\n");
 		
+		
+		System.out.println(ht + "\n");
+
 		System.out.println("Change Hash Table to age%10 and see the result again! "+ "\n" +
 		"public int hashCode() {"+ "\n" +
-				"return age%10;*/");
+				"return age%10;");
 				
 	}
 
