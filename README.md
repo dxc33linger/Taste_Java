@@ -19,9 +19,9 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
     * Run [TestHashTable.java](https://github.com/dxc33linger/Taste_Java/blob/master/Hash/src/Hash/TestHashTable.java) and enjoy!
 
 - [x] Graph
-
-    * <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
-
+    * DFS
+     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
+     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-14_00-07-13.png" width = 200>
 
 Recommended Java IDE: Eclipse
 
