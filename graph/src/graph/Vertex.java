@@ -3,7 +3,8 @@ package graph;
 public class Vertex {
 	
 	private String value;
-
+	public boolean visited;
+	
 	public String getValue() {
 		return value;
 	}

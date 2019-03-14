@@ -5,6 +5,8 @@ public class Graph {
 	private Vertex[] vertex;
 	private int currentSize;
 	public int[][] adjMat;
+	private MyStack stack = new MyStack();
+	private int currentIndex ;
 	
 	public Graph(int size) {
 		vertex = new Vertex[size];
@@ -35,4 +37,25 @@ public class Graph {
 	adjMat[index2][index1] = 1;
 		
 	}
+	
+	public void dfs() {
+		vertex[0].visited = true;
+		stack.push(0); 
+		System.out.println(vertex[0].getValue());
+		out:while(!stack.isEmpty()){
+			for(int i = currentIndex+1; i <vertex.length; i++) {
+				if(adjMat[currentIndex][i]==1&&vertex[i].visited==false) {
+					stack.push(i);
+					vertex[i].visited=true;
+					System.out.println(vertex[i].getValue());
+					continue out;
+				}
+			}
+			stack.pop();
+			if(!stack.isEmpty()) {
+				currentIndex = stack.peak();
+				
+		}
+	}
+}
 }
