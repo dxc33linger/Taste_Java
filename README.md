@@ -1,7 +1,6 @@
 # Taste_Java
 
-![](https://www.cloudbalkan.com/wp-content/uploads/2018/09/58480979cef1014c0b5e4901.png | width=50)
-
+<img src="https://www.cloudbalkan.com/wp-content/uploads/2018/09/58480979cef1014c0b5e4901.png " width = 50>
 Coding examples of basic functions in Java.
 
 Inside each folder,  a simple Java code is provided at path: xxx/src/xxx/Xxx.java.
