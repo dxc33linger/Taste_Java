@@ -12,7 +12,7 @@ public class Graph {
 	}
 	public void addVertex(Vertex v) {
 		vertex[currentSize++] = v;
-		
+		System.out.println(v);
 	}
 	
 	public void addEdge(String v1, String v2) {
