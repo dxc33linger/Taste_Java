@@ -14,22 +14,21 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 - [x] Condition: if else
 - [x] Condition: while
 - [x] Array
-
 - [x] Hash Table
     * Run [TestHashTable.java](https://github.com/dxc33linger/Taste_Java/blob/master/Hash/src/Hash/TestHashTable.java) and enjoy!
-
 - [x] Graph
     * DFS
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-14_00-07-13.png" width = 200>
 - [x] Search
-    * Binary search
-    
+    * The Binary Search   
 - [x] Sort
-    * Selection sort
+    * The Selection Sort
     * How to Use 'Debug' mode in Eclipse 
-    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 400>
+    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 600>
     
-Recommended Java IDE: Eclipse
 
-![Eclipse](https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png)
+
+
+Recommended Java IDE: Eclipse
+<img src="https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png" width = 600>
