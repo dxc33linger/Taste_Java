@@ -22,7 +22,14 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
     * DFS
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-14_00-07-13.png" width = 200>
-
+- [x] Search
+    * Binary search
+    
+- [x] Sort
+    * Selection sort
+    * How to Use 'Debug' mode in Eclipse 
+    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 400>
+    
 Recommended Java IDE: Eclipse
 
 ![Eclipse](https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png)
