@@ -23,6 +23,23 @@ public class Database {
 		db.add(new DVD("Avatar", "James Cameron"));
 		db.add(new DVD("The wandering Earth", "Guo"));
 		db.list();
+
+		// Polymor		
+		CD cd = new CD("OWL CITY", 7);
+		db.add(cd);
+		Item i = cd; //upcast
+//		cd = i; //incorrect		
+//		cd = (CD)i; //forcing downcast
+		
+		i.print(); // call the print() in CD.java, not in Item.java
+		System.out.println(cd.getNoT()); //correct
+//		System.out.println(i.getNoT()); //incorrect
+		
+		
+
+		
+		
+		
 	}
 
 }

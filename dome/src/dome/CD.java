@@ -14,6 +14,10 @@ public class CD extends Item {
 		System.out.println("Track of CD: " + NumberofTracks);
 	}
 
+	public int getNoT() {
+		return NumberofTracks;
+	}
+	
 	public static void main(String[] args) {
 		CD cd = new CD("second life", 7);
 		cd.print();
