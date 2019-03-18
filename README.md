@@ -7,7 +7,7 @@ Inside each folder,  a simple Java code is provided at path: xxx/src/xxx/Xxx.jav
 
 For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc33linger/Taste_Java/blob/master/methods/src/methods/Methods.java) provides a simple example of how to use methods in class-oriented programming. 
 
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 - [x] Hello
 - [x] Create variable
 - [x] Convert data type
@@ -16,26 +16,27 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 - [x] Array
 - [x] Hash Table
     * Run [TestHashTable.java](https://github.com/dxc33linger/Taste_Java/blob/master/Hash/src/Hash/TestHashTable.java) and enjoy!
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 - [x] Graph
     * DFS
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-14_00-07-13.png" width = 200>
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 - [x] Search
     * The Binary Search   
-    
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————   
 - [x] Sort
     * The Selection Sort
     * How to Use 'Debug' mode in Eclipse 
     
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 500>
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 - [x] [Java.lang package](https://www.geeksforgeeks.org/java-lang-package-java/)
     * [Integer, Character, String](https://github.com/dxc33linger/Taste_Java/blob/master/package/src/ComputeFactorial.java)
      
-     
-- [x] Learn 'Class' with a ticket machine   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 150>
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————    
+<img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 150>
+- [x] Learn 'Class' with a ticket machine   
 
 
  > [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
@@ -52,7 +53,8 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
        
    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_21-51-42.png" width = 500>
 
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+   <img src="https://cdn3.iconfinder.com/data/icons/meeting-time-add-on-flat/48/Time_-_Add_On-32-512.png" width = 200> 
 - [x] Learn to use package with a [clock](https://github.com/dxc33linger/Taste_Java/tree/master/clock/src/clock)
    * Use object as member variable
    * Import packages
@@ -60,8 +62,7 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
    * toString() 
    
   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/clock/20190317232835.png" width = 500> 
-  <img src="https://cdn3.iconfinder.com/data/icons/meeting-time-add-on-flat/48/Time_-_Add_On-32-512.png" width = 200> 
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
 
