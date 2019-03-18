@@ -11,11 +11,11 @@ public class TicketMachine2 {
 	// Constructor:
 	public TicketMachine2(int i) {
 		price = i;
-	} // Overload: same function name with different variable
+	} // Constructor Overload: same function name with different variable
 
 	public TicketMachine2(String name) {
 		this.name = name;
-	} // Overload: same function name with different variable
+	} // Constructor Overload: same function name with different variable
 
 	public TicketMachine2(int price, String name) {
 		this(name); // constructor caller, this line calls line17 "this.name = name;"
@@ -70,6 +70,5 @@ public class TicketMachine2 {
 			}
 		} while (true);
 	}
-	// constructor
 
 }
