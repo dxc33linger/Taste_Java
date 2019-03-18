@@ -23,6 +23,7 @@ public class TicketMachine2 {
 						   //second price is local variable
 	}
 
+	// Methods
 	public void showPrompt() {
 		System.out.println("Welcome to ticket " + name);
 		System.out.println("The price is: " + price);

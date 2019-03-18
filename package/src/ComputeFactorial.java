@@ -7,12 +7,14 @@ public class ComputeFactorial {
 		System.out.println("ENTER binary number: ");
 		Scanner in = new Scanner(System.in);
 		String s =in.nextLine();
-		//convert decimal to binary use Integer package
+		
+		// java.lang.Integer
+		// Convert decimal to binary use Integer package
 		Integer i = Integer.valueOf(s,2);
 		int ii = i;
 		System.out.println(ii);
 		
-		// Use Character package
+		// Use java.lang.Character package
 		System.out.println("ENTER characters: ");
 		String ss =in.nextLine();
 
@@ -23,7 +25,7 @@ public class ComputeFactorial {
 			ch = Character.toUpperCase(ch);
 			System.out.println(ch);			
 		}
-
+		// java.lang.String
 		System.out.println("ENTER hello: ");
 
 		String s1 = in.next();
