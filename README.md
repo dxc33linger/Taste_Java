@@ -37,20 +37,21 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
      
 - [x] Learn 'Class' with a ticket machine
 
-   * [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
-       * Learn to use Class and [Methods](https://www.geeksforgeeks.org/methods-in-java/). 
+ * [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
+   * Learn to use Class and [Methods](https://www.geeksforgeeks.org/methods-in-java/). 
     
-   * [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
+ * [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
  
-       * Learn field/member variable
-       * Learn local variable
-       * Learn [constructor](https://www.geeksforgeeks.org/constructors-in-java/)
-      * Learn reference variable 'this'
-       * Learn [constructor overloading](https://beginnersbook.com/2013/05/constructor-overloading/)
-       * Learn Constructor Caller
+   * Learn field/member variable
+   * Learn local variable
+   * Learn [constructor](https://www.geeksforgeeks.org/constructors-in-java/)
+   * Learn reference variable 'this'
+   * Learn [constructor overloading](https://beginnersbook.com/2013/05/constructor-overloading/)
+   * Learn Constructor Caller
+   
     
-    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_21-51-42.png" width = 600>
-    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
+   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_21-51-42.png" width = 600>
+   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
 
 
 
