@@ -16,34 +16,38 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 - [x] Array
 - [x] Hash Table
     * Run [TestHashTable.java](https://github.com/dxc33linger/Taste_Java/blob/master/Hash/src/Hash/TestHashTable.java) and enjoy!
+
 - [x] Graph
     * DFS
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-14_00-07-13.png" width = 200>
+
 - [x] Search
     * The Binary Search   
+    
 - [x] Sort
     * The Selection Sort
     * How to Use 'Debug' mode in Eclipse 
     
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 600>
+
 - [x] [Java.lang package](https://www.geeksforgeeks.org/java-lang-package-java/)
-    * Integer, Character, String
+    * [Integer, Character, String](https://github.com/dxc33linger/Taste_Java/blob/master/package/src/ComputeFactorial.java)
      
      
 - [x] Learn 'Class' with a ticket machine
 
-* [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
-    * Learn to use Class and [Methods](https://www.geeksforgeeks.org/methods-in-java/). 
+   * [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
+       * Learn to use Class and [Methods](https://www.geeksforgeeks.org/methods-in-java/). 
     
-* [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
+   * [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
  
-    * Learn field/member variable
-    * Learn local variable
-    * Learn [constructor](https://www.geeksforgeeks.org/constructors-in-java/)
-    * Learn reference variable 'this'
-    * Learn [constructor overloading](https://beginnersbook.com/2013/05/constructor-overloading/)
-    * Learn Constructor Caller
+       * Learn field/member variable
+       * Learn local variable
+       * Learn [constructor](https://www.geeksforgeeks.org/constructors-in-java/)
+      * Learn reference variable 'this'
+       * Learn [constructor overloading](https://beginnersbook.com/2013/05/constructor-overloading/)
+       * Learn Constructor Caller
     
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_21-51-42.png" width = 600>
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
