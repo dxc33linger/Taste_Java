@@ -1,4 +1,4 @@
-# Taste_Java
+# Have a cup of Java!
 <img src="https://www.cloudbalkan.com/wp-content/uploads/2018/09/58480979cef1014c0b5e4901.png " width = 100>
 
 Coding examples of basic functions in Java.
@@ -37,10 +37,10 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
      
 - [x] Learn 'Class' with a ticket machine
 
- * [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
+ > [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
    * Learn to use Class and [Methods](https://www.geeksforgeeks.org/methods-in-java/). 
     
- * [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
+ > [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
  
    * Learn field/member variable
    * Learn local variable
