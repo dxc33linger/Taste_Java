@@ -27,8 +27,14 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
     * How to Use 'Debug' mode in Eclipse 
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 600>
     
+- [x] A ticket machine
+    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-00-28.png" width = 500>
+
+
+
 
 
 
 Recommended Java IDE: Eclipse
-   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png" width = 600>
+
+   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png" width = 400>
