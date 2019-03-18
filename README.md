@@ -27,7 +27,10 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
     * How to Use 'Debug' mode in Eclipse 
     
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 600>
-    
+- [x] [Java.lang package](https://www.geeksforgeeks.org/java-lang-package-java/)
+    * Integer, Character, String
+     
+     
 - [x] Learn 'Class' with a ticket machine
 
 * [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
