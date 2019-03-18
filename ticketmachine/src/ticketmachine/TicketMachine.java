@@ -3,15 +3,12 @@ package ticketmachine;
 import java.util.Scanner;
 
 public class TicketMachine {
-	// field:
 	private int price = 80;
 	private int balance;
-	private int total;
-
+	
 	public void showPrompt() {
-		System.out.println("Welcome to buy ticket");
+		System.out.println("Welcome to ticket ");
 		System.out.println("The price is: " + price);
-
 	}
 
 	public void insertMoney(int bill) {
@@ -28,7 +25,7 @@ public class TicketMachine {
 	public void printTicket() {
 		System.out.println("Tickek is coming....");
 		System.out.println("Change: " + (balance - price));
-		balance -= price;	 	
+		balance = 0;	 	
 		printBalance();
 	}		
 
@@ -38,7 +35,6 @@ public class TicketMachine {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		TicketMachine tm = new TicketMachine();
 		tm.showPrompt();
 		tm.insertMoney(100);
@@ -70,6 +66,9 @@ public class TicketMachine {
 			}
 		}while(true);
 	}
+		
+	
+	
 				
 		
 }
