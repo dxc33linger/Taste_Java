@@ -16,25 +16,31 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 - [x] Array
 - [x] Hash Table
     * Run [TestHashTable.java](https://github.com/dxc33linger/Taste_Java/blob/master/Hash/src/Hash/TestHashTable.java) and enjoy!
+- [x] [Java.lang package](https://www.geeksforgeeks.org/java-lang-package-java/)
+    * [Integer, Character, String](https://github.com/dxc33linger/Taste_Java/blob/master/package/src/ComputeFactorial.java)
+     
 ************************************************************************************************************************************
+
 - [x] Graph
     * DFS
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-13_22-26-23.png" width = 200>
      <img src="https://github.com/dxc33linger/Taste_Java/blob/master/graph/Snipaste_2019-03-14_00-07-13.png" width = 200>
 ************************************************************************************************************************************
+
 - [x] Search
-    * The Binary Search     ************************************************************************************************************************************
+    * The Binary Search 
+    
+************************************************************************************************************************************
 - [x] Sort
     * The Selection Sort
     * How to Use 'Debug' mode in Eclipse 
     
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 500>
+    
 ************************************************************************************************************************************
-- [x] [Java.lang package](https://www.geeksforgeeks.org/java-lang-package-java/)
-    * [Integer, Character, String](https://github.com/dxc33linger/Taste_Java/blob/master/package/src/ComputeFactorial.java)
-     
-************************************************************************************************************************************   
+  
 <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 150>
+
 - [x] Learn 'Class' with a ticket machine   
 
 
@@ -75,6 +81,7 @@ Recommended Java IDE: Eclipse
 
 
 
+************************************************************************************************************************************
 
 Reference:
 1. https://study.163.com/course/courseMain.htm?courseId=533006
