@@ -67,7 +67,7 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
    * toString() 
    
   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/clock/20190317232835.png" width = 500>  
-  <img src="https://cdn3.iconfinder.com/data/icons/meeting-time-add-on-flat/48/Time_-_Add_On-32-512.png" width = 200> 
+  <img src="https://cdn3.iconfinder.com/data/icons/meeting-time-add-on-flat/48/Time_-_Add_On-32-512.png" width = 150> 
 
 ************************************************************************************************************************************
 
