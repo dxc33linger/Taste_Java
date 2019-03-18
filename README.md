@@ -31,7 +31,7 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 - [x] A ticket machine
 
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-00-28.png" width = 600>
-    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 250>
+    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
 
 
 
@@ -40,3 +40,13 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
 Recommended Java IDE: Eclipse
 
    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png" width = 400>
+
+
+
+
+
+
+Reference:
+1. https://study.163.com/course/courseMain.htm?courseId=533006
+2. https://study.163.com/course/courseMain.htm?courseId=1006190095
+3. The image of ticket machine is from https://www.artstation.com/artwork/6lK86.
