@@ -28,18 +28,26 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
     
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/sort/Snipaste_2019-03-17_16-37-14.png" width = 600>
     
-- [x] A ticket machine
+- [x] Learn 'Class' with a ticket machine
 
-    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-00-28.png" width = 600>
+* [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
+    * Learn to use Class and functions. 
+    
+* [TicketMachine2](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine2.java)      
+    * Learn field/member variable
+    * Learn local variable
+    * Learn constructor
+    * Learn reference variable 'this'
+    * Learn [constructor overloading](https://beginnersbook.com/2013/05/constructor-overloading/)
+    
+    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_21-51-42.png" width = 600>
     <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
-
 
 
 
 
 Recommended Java IDE: Eclipse
 
-   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/Snipaste_2019-03-12_22-22-37.png" width = 400>
 
 
 
