@@ -35,7 +35,8 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
     * [Integer, Character, String](https://github.com/dxc33linger/Taste_Java/blob/master/package/src/ComputeFactorial.java)
      
      
-- [x] Learn 'Class' with a ticket machine
+- [x] Learn 'Class' with a ticket machine   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 150>
+
 
  > [TicketMachine](https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/src/ticketmachine/TicketMachine.java)
    * Learn to use Class and [Methods](https://www.geeksforgeeks.org/methods-in-java/). 
@@ -48,10 +49,8 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
    * Learn reference variable 'this'
    * Learn [constructor overloading](https://beginnersbook.com/2013/05/constructor-overloading/)
    * Learn Constructor Caller
-   
-    
+       
    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_21-51-42.png" width = 500>
-   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
 
 
 - [x] Learn to use package with a [clock](https://github.com/dxc33linger/Taste_Java/tree/master/clock/src/clock)
