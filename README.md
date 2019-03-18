@@ -60,3 +60,5 @@ Reference:
 1. https://study.163.com/course/courseMain.htm?courseId=533006
 2. https://study.163.com/course/courseMain.htm?courseId=1006190095
 3. The image of ticket machine is from https://www.artstation.com/artwork/6lK86.
+4. https://beginnersbook.com/2013/05/constructor-overloading/
+5. https://www.geeksforgeeks.org
