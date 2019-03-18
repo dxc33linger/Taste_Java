@@ -54,14 +54,14 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
 
 
-- [x] Learn package with a [clock](https://github.com/dxc33linger/Taste_Java/tree/master/clock/src/clock)
+- [x] Learn to use package with a [clock](https://github.com/dxc33linger/Taste_Java/tree/master/clock/src/clock)
    * Use object as member variable
    * Import packages
    * System.out.printf (also see [ref1](https://www.cs.colostate.edu/~cs160/.Summer16/resources/Java_printf_method_quick_reference.pdf), [ref2](https://www.baeldung.com/java-printstream-printf))
    * toString() 
    
   <img src="https://github.com/dxc33linger/Taste_Java/blob/master/clock/20190317232835.png" width = 600> 
-
+  <img src="https://cdn3.iconfinder.com/data/icons/meeting-time-add-on-flat/48/Time_-_Add_On-32-512.png" width = 200> 
 
 
 
