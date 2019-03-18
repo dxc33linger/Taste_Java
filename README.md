@@ -54,6 +54,16 @@ For example, file ["./methods/src/methods/Methods.java"](https://github.com/dxc3
    <img src="https://github.com/dxc33linger/Taste_Java/blob/master/ticketmachine/Snipaste_2019-03-17_18-04-22.png" width = 200>
 
 
+- [x] Learn package with a [clock](https://github.com/dxc33linger/Taste_Java/tree/master/clock/src/clock)
+   * Use object as member variable
+   * Import packages
+   * System.out.printf [ref1](https://www.cs.colostate.edu/~cs160/.Summer16/resources/Java_printf_method_quick_reference.pdf) [ref2](https://www.baeldung.com/java-printstream-printf)
+   * toString() 
+
+
+
+
+
 
 
 Recommended Java IDE: Eclipse
