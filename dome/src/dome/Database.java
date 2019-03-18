@@ -24,7 +24,7 @@ public class Database {
 		db.add(new DVD("The wandering Earth", "Guo"));
 		db.list();
 
-		// Polymor		
+		// polymorphism 		
 		CD cd = new CD("OWL CITY", 7);
 		db.add(cd);
 		Item i = cd; //upcast
